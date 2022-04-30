@@ -1,3 +1,11 @@
+I SPECIFY THAT THIS CODE IS NOT MINE, BUT IS OWNED BY Janspiry.
+Image-Super-Resolution-via-Iterative-Refinement
+
+
+
+
+
+
 # Image Super-Resolution via Iterative Refinement
 
 [Paper](https://arxiv.org/pdf/2104.07636.pdf ) |  [Project](https://iterative-refinement.github.io/ )
